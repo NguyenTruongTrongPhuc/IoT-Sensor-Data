@@ -1,0 +1,6 @@
+
+{
+    "server_url": "http://yourserver.com/api",
+    "wifi_ssid": "YourWiFiSSID",
+    "wifi_password": "YourWiFiPassword"
+}
